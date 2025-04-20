@@ -15,8 +15,6 @@
 ## 🔍 Reflections
 This week was challenging but fun. I struggled with loops at first, but gradually understood how to debug effectively. Loved the logical thinking involved!
 
-## 📷 Screenshot
-*(Optional: Upload a screenshot of your working program or terminal output and link it here)*
 
 ---
 
